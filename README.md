@@ -1,3 +1,2 @@
 # unit converter
-Unit converter (m, au, pc)
-used in terminal directly (sys)
+Mini-project converting meters, astronomical units and parsecs. I wanted to experiment with sys, so this is to be used in the terminal.  
